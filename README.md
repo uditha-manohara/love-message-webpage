@@ -82,7 +82,7 @@ Change the message inside `<p>` to anything you like — something personal, emo
 ## 🌍 Live Demo
 
 *(Add your GitHub Pages link here once hosted)*  
-Example: [https://uditha-manohara.github.io/love-message-webpage](https://uditha-manohara.github.io/love-message-webpage)
+Example: [https://uditha-manohara.github.io/foryou/](https://uditha-manohara.github.io/foryou/)
 
 ---
 
